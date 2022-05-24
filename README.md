@@ -1,1 +1,1 @@
-# simple-quiz-game
+Using if-else statement
